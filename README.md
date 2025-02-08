@@ -23,9 +23,9 @@
 
 ### 前置要求
 
-- Python 3.8+
+- Python
 - Chrome浏览器（[下载地址](https://www.google.com/chrome/)）
-- ChromeDriver（[下载地址](https://chromedriver.chromium.org/)）
+- ChromeDriver（[下载地址](https://chromedriver.chromium.org/)）(我没有专门下载过这个)
 
 ### 安装步骤
 
